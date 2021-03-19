@@ -46,7 +46,7 @@ The Septuagint is helpful for understanding Jewish thought of the time but it is
 
 The Septuagint (LXX) translation of the Hebrew into Greek included 15 books of the Apocrypha. The books of the Apocrypha are not part of the canon of Scripture.
 
-## ca 30 ADJesus of Nazareth
+## ca 30 AD Jesus of Nazareth
 
 Jesus quoted extensively from the Hebrew Scriptures. Jesus mentioned events like the destruction of Sodom and Gomorrah, Noah and the flood, Jonah and the whale. He referred to biblical characters, from Adam and Eve to Abraham, Isaac, Jacob, Moses, David, Elijah, Isaiah, Jeremiah and Daniel.
 
@@ -56,21 +56,21 @@ The death and resurrection of Jesus
 
 Jesus proclaimed Himself to be the Messiah. In the shedding of His blood, He established the New Covenant [Luke 22:17-20].
 
-## ca 40-90 ADThe New Testament
+## ca 40-90 AD The New Testament
 
 The New Testament was written by Jewish believers in Jesus; men who had been with Jesus. They wrote in Greek because Greek was the most widely spoken language in the world at that time.
 
-## ca 370 ADNew Testament Canon
+## ca 370 AD New Testament Canon
 
 By the 4th Century AD the New Testament canon was settled.
 
 The 27 books of the New Testament were accepted by church leaders as being of Divine origin.
 
-## ca 400 ADThe Vulgate
+## ca 400 AD The Vulgate
 
 Jerome translated the Bible into Latin. Jerome worked from copies of Greek manuscripts of the New Testament, and from the Septuagint. This means that with regard to the Old Testament Jerome was creating a translation of what was already a translation.
 
-## ca 600 ADDiacritic marks were added to the Hebrew Bible text
+## ca 600 AD Diacritic marks were added to the Hebrew Bible text
 
 Jewish Masoretic scribes, working in Tiberias in the Galilee, formulated a system of dot points (Hebrew: nikudot) to represent vowels and to distinguish between alternative pronunciations of Hebrew letters.
 
@@ -80,7 +80,7 @@ There are no dot points used in modern Hebrew books and newspapers. They aren’
 
 The Masoretic scribes introduced the dot points at a particular time in Jewish history because Jews had been scattered all over the world and in the countries where they lived they learned the language of those lands. Hebrew became a language of liturgy only. There was a danger that proper pronunciation might be lost. Today that is no longer a problem. Hebrew has been restored in Israel as the language of the Jewish people.
 
-## ca 800 ADA new style of Greek handwriting developed
+## ca 800 AD A new style of Greek handwriting developed
 
 Ancient Greek texts, including those of the New Testament, had been written in large upright letters (capitals – uncial script). From the 9th Century AD a new style of Greek writing (cursive script) developed.
 
@@ -90,7 +90,7 @@ The original Greek alphabet did not have diacritic accents.
 
 Bible students today are learning a form of medieval Greek lettering that is almost unrecognizable from the original Greek text. It would be so simple if modern Greek Bible texts were presented in all upper case letters.
 
-## ca 1100 ADIota subscript and apocopic word forms
+## ca 1100 AD Iota subscript and apocopic word forms
 
 Pronunciation of certain Greek words had gradually changed from Classical times. It became common to drop certain letters from written Greek to reflect the changes in pronunciation.
 
