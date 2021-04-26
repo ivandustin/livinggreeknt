@@ -82,3 +82,17 @@ However, we have to have a starting point, and the CNTR text has been made freel
 ### Center for New Testament Restoration (CNTR)
 
 CNTR conducts advanced work in textual criticism, using computer analysis and comparing more source manuscripts than ever previously examined. CNTR is the work of Alan Bunning, a lecturer at Purdue University in Indiana, and a graduate in New Testament Greek from the Kensington Theological Academy.
+
+## OT Explanation
+
+The Hebrew text is in column 4. It is taken from the Westminster Leningrad Codex.
+
+The number in the first column identifies the book of the Old Testament in the first two figures. The next two figures identify the chapter, and the last figures identify the verse.
+
+Column 3 is the word order in the Hebrew of that book of the Old Testament.
+
+Column 5 is the number of Hebrew letters in each word, together with the total number of letters in the verse.
+
+Column 6 is the number of Hebrew words in the verse.
+
+Column 7 is the total numeric value of each word (using this table of [Hebrew letter values](pdf/hebrew-alphabet-numerics.pdf)), together with the total numeric value of the verse.
