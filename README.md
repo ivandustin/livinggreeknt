@@ -2,7 +2,7 @@
 
 "Identifying the original Greek text ..."
 
-See [LGNT-Data.txt](LGNT-Data.txt) for the New Testament and [LGNT-OT-Data.txt](LGNT-OT-Data.txt) for the Old Testament.
+See [new.tsv](new.tsv) for the New Testament and [old.tsv](old.tsv) for the Old Testament.
 
 ## Source
 
