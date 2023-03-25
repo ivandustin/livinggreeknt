@@ -1,4 +1,4 @@
-# LivingGreekNT Archive
+# LivingGreekNT.org Archive
 
 "Verifying the original Bible text ..."
 
