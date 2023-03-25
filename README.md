@@ -1,8 +1,10 @@
 # Living Greek NT
 
-"Identifying the original Greek text ..."
+"Verifying the original Bible text ..."
 
-See [new.tsv](new.tsv) for the New Testament and [old.tsv](old.tsv) for the Old Testament.
+## Data
+
+The Greek New Testament and the Hebrew Old Testament data is located inside the [data](data) folder.
 
 ## Source
 
