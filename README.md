@@ -1,4 +1,4 @@
-# Living Greek NT
+# LivingGreekNT Archive
 
 "Verifying the original Bible text ..."
 
@@ -8,7 +8,7 @@ The Greek New Testament and the Hebrew Old Testament data is located inside the 
 
 ## Source
 
-[Living Greek NT](https://www.livinggreeknt.org/)
+https://www.livinggreeknt.org/
 
 ## ORIGINAL GREEK TEXT OF THE NEW TESTAMENT IDENTIFIED?
 
